@@ -1,0 +1,12 @@
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\Sort-NameUnitTestProject.dll
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\Sort-NameUnitTestProject.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\ContactHelper.dll
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\ContactHelper.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\obj\Debug\Sort-NameUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\obj\Debug\Sort-NameUnitTestProject.dll
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\obj\Debug\Sort-NameUnitTestProject.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\filewithoutcomma.txt
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\FileWithTwoCommas.txt
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.txt
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.txtnames-sorted.txt
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.xlsx

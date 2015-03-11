@@ -1,0 +1,14 @@
+C:\Users\Javid\SkyDrive\Development\Sort-Names\Sort-Names\bin\Debug\Sort-Names.exe.config
+C:\Users\Javid\SkyDrive\Development\Sort-Names\Sort-Names\obj\Debug\Sort-Names.exe
+C:\Users\Javid\SkyDrive\Development\Sort-Names\Sort-Names\obj\Debug\Sort-Names.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\SortNames\bin\Debug\Sort-Names.exe.config
+C:\Users\Javid\SkyDrive\Development\SortNames\SortNames\obj\Debug\Sort-Names.exe
+C:\Users\Javid\SkyDrive\Development\SortNames\SortNames\obj\Debug\Sort-Names.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\Sort-Names.exe.config
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\obj\Debug\Sort-Names.exe
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\obj\Debug\Sort-Names.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\Sort-Names.exe
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\Sort-Names.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\ContactHelper.dll
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\ContactHelper.pdb
+C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\obj\Debug\SortNames.csprojResolveAssemblyReference.cache
