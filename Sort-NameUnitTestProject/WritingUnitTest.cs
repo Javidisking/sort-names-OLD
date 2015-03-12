@@ -26,34 +26,63 @@ namespace ContactAppUnitTestProject
             };
             #endregion
 
-
             var cs = new ContactService();
-            string filepath = Environment.CurrentDirectory + "\\Inputfiles\\" + "Write-test1.txt";
+            string filepath = Environment.CurrentDirectory + "\\Inputfiles\\" + "NotEmptyFile-test.txt";
             cs.WriteToFile(SampleContact, filepath);
 
-            //using (var streamreader = new StreamReader(filepath))
-            //{
-            //    string line;
-            //    while ((line = streamreader.ReadLine()) != null)
-            //    {
-            //        var contact = new Contact(line.Split(',').ToList()[0], line.Split(',').ToList()[1]);
-            //        contacts.Add(contact);
-            //    }
-            //}
+            using (var streamreader = new StreamReader(filepath))
+            {
+                Assert.AreNotEqual(streamreader.ReadLine(), null);
+            }
+        }
 
+        [TestMethod]
+        public void ProvideContactList_WriteToFile_TotalContactSaveToFileMatch()
+        {
+            #region Create Sample Contact List
 
+            var SampleContact = new List<Contact>(){
+                new Contact("ZIGLAR","ZIG"),
+                new Contact("SMITH", "JOHN"), 
+                new Contact("NAJAFI", "JAVID"),                 
+                new Contact("ZIGLAR", "JOHN")
+            };
 
-            //Assert.IsNotNull(actualcontacts);
-            //for (int i = 0; i < expectedcontacts.Count; i++)
-            //{
-            //    Assert.AreEqual(expectedcontacts[i].FirstName, actualcontacts[i].FirstName);
-            //    Assert.AreEqual(expectedcontacts[i].LastName, actualcontacts[i].LastName);
-            //}
+            #endregion
 
+            var cs = new ContactService();
+            string filepath = Environment.CurrentDirectory + "\\Inputfiles\\" + "TotalContact-test.txt";
+            cs.WriteToFile(SampleContact, filepath);
 
-            //var targetFilename = Path.GetFileNameWithoutExtension(args[0]) + "-sorted.txt";
-            //var targetFilePath = Path.GetDirectoryName(args[0]) + targetFilename;
-            //cs.WriteToFile(sortedcontacts, targetFilePath);
+            var actualcontacts = cs.ReadFile(filepath);
+            Assert.AreEqual(actualcontacts.Count, SampleContact.Count);
+        }
+
+        public void ProvideContactList_WriteToFile_AllContactSaveToFileMatchOriginlList()
+        {
+            #region Create Sample Contact List
+
+            var SampleContact = new List<Contact>(){
+                new Contact("ZIGLAR","ZIG"),
+                new Contact("SMITH", "JOHN"), 
+                new Contact("NAJAFI", "JAVID"),                 
+                new Contact("ZIGLAR", "JOHN")
+            };
+
+            #endregion
+
+            var cs = new ContactService();
+            string filepath = Environment.CurrentDirectory + "\\Inputfiles\\" + "AllContactSaveToFileMatchOriginlList-test.txt";
+            cs.WriteToFile(SampleContact, filepath);
+
+            var actualcontacts = cs.ReadFile(filepath);
+
+            Assert.IsNotNull(actualcontacts);
+            for (int i = 0; i < SampleContact.Count; i++)
+            {
+                Assert.AreEqual(SampleContact[i].FirstName, actualcontacts[i].FirstName);
+                Assert.AreEqual(SampleContact[i].LastName, actualcontacts[i].LastName);
+            }
         }
     }
 }
