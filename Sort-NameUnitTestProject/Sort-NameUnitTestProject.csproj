@@ -51,8 +51,9 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ValidateInputFileFormatUnitTest.cs" />
-    <Compile Include="ValidateInputUnitTests.cs" />
+    <Compile Include="SortingUnitTest.cs" />
+    <Compile Include="ReadFileUnitTests.cs" />
+    <Compile Include="WritingUnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ContactHelper\ContactHelper.csproj">

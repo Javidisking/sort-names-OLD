@@ -18,12 +18,6 @@ namespace SortNames
                 var temp = new string[] { "C:\\nds.txt" };
                 args = temp;
 
-                //Validating File Path
-                Validation.ValidateFilePath(args);
-
-                //Validating File Format
-                Validation.ValidateFileFormat(args[0]);
-
                 var cs = new ContactService();
 
                 //Reading Source                

@@ -10,3 +10,15 @@ C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug
 C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.txt
 C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.txtnames-sorted.txt
 C:\Users\Javid\SkyDrive\Development\SortNames\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.xlsx
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\obj\Debug\Sort-NameUnitTestProject.csprojResolveAssemblyReference.cache
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\obj\Debug\Sort-NameUnitTestProject.dll
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\obj\Debug\Sort-NameUnitTestProject.pdb
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\InputFiles\filewithoutcomma.txt
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\InputFiles\FileWithTwoCommas.txt
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.txt
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.txtnames-sorted.txt
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\InputFiles\names.xlsx
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\Sort-NameUnitTestProject.dll
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\Sort-NameUnitTestProject.pdb
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\ContactHelper.dll
+D:\development\Sandpit\sort-names\Sort-NameUnitTestProject\bin\Debug\ContactHelper.pdb

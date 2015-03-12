@@ -16,3 +16,16 @@ C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\InputFiles\Fi
 C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\InputFiles\names.txt
 C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\InputFiles\names.txtnames-sorted.txt
 C:\Users\Javid\SkyDrive\Development\SortNames\Sort-Names\bin\Debug\InputFiles\names.xlsx
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\Sort-Names.exe.config
+D:\development\Sandpit\sort-names\Sort-Names\obj\Debug\Sort-Names.exe
+D:\development\Sandpit\sort-names\Sort-Names\obj\Debug\Sort-Names.pdb
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\InputFiles\filewithoutcomma.txt
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\InputFiles\FileWithTwoCommas.txt
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\InputFiles\names.txt
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\InputFiles\names.txtnames-sorted.txt
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\InputFiles\names.xlsx
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\Sort-Names.exe
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\Sort-Names.pdb
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\ContactHelper.dll
+D:\development\Sandpit\sort-names\Sort-Names\bin\Debug\ContactHelper.pdb
+D:\development\Sandpit\sort-names\Sort-Names\obj\Debug\Sort-Names.csprojResolveAssemblyReference.cache

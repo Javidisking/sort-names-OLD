@@ -13,3 +13,13 @@ C:\Users\Javid\SkyDrive\Development\SortNames\ContactHelper\bin\Debug\InputFiles
 C:\Users\Javid\SkyDrive\Development\SortNames\ContactHelper\bin\Debug\InputFiles\names.txtnames-sorted.txt
 C:\Users\Javid\SkyDrive\Development\SortNames\ContactHelper\bin\Debug\InputFiles\names.xlsx
 C:\Users\Javid\SkyDrive\Development\SortNames\ContactHelper\obj\Debug\ContactHelper.csprojResolveAssemblyReference.cache
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\InputFiles\filewithoutcomma.txt
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\InputFiles\FileWithTwoCommas.txt
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\InputFiles\names.txt
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\InputFiles\names.txtnames-sorted.txt
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\InputFiles\names.xlsx
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\ContactHelper.dll
+D:\development\Sandpit\sort-names\ContactHelper\bin\Debug\ContactHelper.pdb
+D:\development\Sandpit\sort-names\ContactHelper\obj\Debug\ContactHelper.dll
+D:\development\Sandpit\sort-names\ContactHelper\obj\Debug\ContactHelper.pdb
+D:\development\Sandpit\sort-names\ContactHelper\obj\Debug\ContactHelper.csprojResolveAssemblyReference.cache
